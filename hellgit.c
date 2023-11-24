@@ -1,4 +1,5 @@
 #include<stdio.h>
-void main(){
-    printf("Hello Git!\m");
+int main(){
+    printf("Hello Git!\n");
+    return 0;
 }
